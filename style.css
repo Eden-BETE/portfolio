@@ -1477,7 +1477,7 @@ footer {
 }
 
 .footer-avatar-container {
-    width: 300px; /* Increase the width to make the GIF larger */
+    width: 400px; /* Increase the width for a bigger GIF */
     margin-top: 20px;
     position: relative;
     display: flex;
@@ -1493,6 +1493,7 @@ footer {
     z-index: 1;
     padding-left: 0;
 }
+
 
 .footer-avatar-img {
     width: 100%;
