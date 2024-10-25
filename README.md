@@ -1,5 +1,5 @@
 # <a href="https://eden-bete.github.io/portfolio/" target="_blank">My Portfolio</a>
-<p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
+<p align="justify">This website displays my Story, Web presence, Projects, Work experience, and contact information.</p>
 
 # Sections 📚
 
