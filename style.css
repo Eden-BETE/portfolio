@@ -694,7 +694,8 @@ noscript {
 #info-para,
 .about-info p {
     font-weight: 400;
-    font-size: 2rem
+    font-size: 2.2rem;
+    line-height: 1.2 !important;
 }
 
 #work div {
